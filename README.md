@@ -4,11 +4,12 @@ Some choices of terminology that might seem harmless to some members of the comm
 
 Here are some of the most common terms that have been identified by other organizations as problematic and some of the alternatives they have suggested:
 
-| Term                                  | Alternative                                       |
-|:--------------------------------------|:--------------------------------------------------|
+| Term                                  | Alternative                                       | References                            |
+|:--------------------------------------|:--------------------------------------------------|----------------------------------------
 | Whitelist                             | allowlist                                         |
 | Blacklist	                            | blocklist, denylist                               |
 | Master/slave                          | leader/follower, primary/replica, active/standby  |
+| Master branch                         | main branch                                       |[Ansible](https://www.redhat.com/en/blog/making-open-source-more-inclusive-eradicating-problematic-language)|            
 | Grandfathered	                        | legacy status                                     |
 | Gendered terms (e.g., guys)           | Folks, people, you all, y'all                     |
 | Gendered pronouns (e.g., he/him/his)  | They, them, their                                 |
