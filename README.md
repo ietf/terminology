@@ -1,24 +1,32 @@
 # Inclusive Terminology in IETF Documents
 
-Some choices of terminology that might seem harmless to some members of the community have painful connotations for others.  To ensure that the Internet standards process is open and welcoming for everyone, we should avoid such terminology in favor of more inclusive (and often more accurate!) options.  This document provides information on known problematic terms and suggested alternatives.
+Some choices of terminology that might seem harmless to some members of the community have painful connotations for others.  To ensure that the Internet standards process is open and welcoming for everyone, we should avoid such terminology in favor of more inclusive (and often more accurate!) options.
 
-### Template
+Here are some of the most common problematic terms and some suggested alternatives:
 
-**Avoid:** (What terms should be avoided in IETF documents?)
+| Avoid                                 | Better                                            |
+|:--------------------------------------|:--------------------------------------------------|
+| whitelist                             | allowlist                                         |
+| blacklist	                            | blocklist, denylist                               |
+| master/slave                          | leader/follower, primary/replica, primary/standby |
+| grandfathered	                        | legacy status                                     |
+| Gendered terms (e.g., guys)           | Folks, people, you all, y'all                     |
+| Gendered pronouns (e.g., he/him/his)  | They, them, their                                 |
+| Man hours	                            | Person hours, engineer hours, staff hours         |
+| Sanity check                          | Quick check, confidence check                     |
+| Crazy                                 | Unexpected, surprising, puzzling                  |
+| Dummy value                           | Placeholder value, sample value                   |
 
-**Better:** (What are better ways to express the same concept?)
+This list is obviously not comprehensive.  In general, authors and reviewers
+should try to make sure they use language that is inclusive along a few
+dimensions:
 
-(A brief note to explain why the terms are to be avoided / better choices.)
+* Gender
+* Age
+* Ability
+* Ethnicity
 
-### Case 1
-
-**Avoid:** master/slave
-
-**Better:** leader/folloer, primary/secondary
-
-(Explanatory note)
-
-### (To be continued...)
+More background can be found in [this Internet-Draft](https://tools.ietf.org/html/draft-knodel-terminology-03).
 
 ## Background: Elsewhere on the Internet
 
@@ -30,8 +38,12 @@ documentation, for example:
 * [Google](https://developers.google.com/style/inclusive-documentation)
 * [Chromium](https://chromium.googlesource.com/chromium/src/+/master/styleguide/inclusive_code.md#racially-neutral)
 
+Several of the examples above are drawn from these guides, and they also include
+more detailed considerations.
+
 Other organizations working on the same goal include:
 
+* [NIST](https://www.politico.com/news/2020/06/25/agency-ends-use-technology-terms-racist-associations-339880)
 * [RedHat](https://www.redhat.com/en/blog/making-open-source-more-inclusive-eradicating-problematic-language)
 * [IBM](https://www.ibm.com/downloads/cas/2DZELQ4O)
 * [Splunk](https://www.splunk.com/en_us/blog/leadership/biased-language-has-no-place-in-tech.html)
