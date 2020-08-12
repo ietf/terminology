@@ -6,12 +6,13 @@ Here are some of the most common problematic terms and some suggested alternativ
 
 | Avoid                                 | Better                                            |
 |:--------------------------------------|:--------------------------------------------------|
-| whitelist                             | allowlist                                         |
-| blacklist	                            | blocklist, denylist                               |
-| master/slave                          | leader/follower, primary/replica, primary/standby |
-| grandfathered	                        | legacy status                                     |
+| Whitelist                             | allowlist                                         |
+| Blacklist	                            | blocklist, denylist                               |
+| Master/slave                          | leader/follower, primary/replica, active/standby  |
+| Grandfathered	                        | legacy status                                     |
 | Gendered terms (e.g., guys)           | Folks, people, you all, y'all                     |
 | Gendered pronouns (e.g., he/him/his)  | They, them, their                                 |
+| Man in the middle                     | On-path attacker, impersionation attack           |
 | Man hours	                            | Person hours, engineer hours, staff hours         |
 | Sanity check                          | Quick check, confidence check                     |
 | Crazy                                 | Unexpected, surprising, puzzling                  |
@@ -27,6 +28,18 @@ dimensions:
 * Ethnicity
 
 More background can be found in [this Internet-Draft](https://tools.ietf.org/html/draft-knodel-terminology-03).
+
+## References
+
+Sometimes IETF documents need to refer to terminology from older IETF documents
+or non-IETF documents.  Such terminology might not meet the standards for
+inclusiveness that we would apply to IETF documents today.  In such cases, the
+author of the new IETF document should map old terms to new, better terms.  [For
+example](https://tools.ietf.org/html/draft-rescorla-tls-rfc8446-bis-00):
+
+> Note: the key derivation labels use the string "master" even though
+> the values are referred to as "main" secrets.  This mismatch is a
+> result of renaming the values while retaining compatibility.
 
 ## Background: Elsewhere on the Internet
 
