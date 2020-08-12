@@ -1,10 +1,10 @@
-# Inclusive Terminology in IETF Documents
+# Terminology in IETF Documents
 
-Some choices of terminology that might seem harmless to some members of the community have painful connotations for others.  To ensure that the Internet standards process is open and welcoming for everyone, we should avoid such terminology in favor of more inclusive (and often more accurate!) options.
+Some choices of terminology that might seem harmless to some members of the community have painful connotations for others.  
 
-Here are some of the most common problematic terms and some suggested alternatives:
+Here are some of the most common terms that have been identified by other organizations as problematic and some of the alternatives they have suggested:
 
-| Avoid                                 | Better                                            |
+| Term                                  | Alternative                                       |
 |:--------------------------------------|:--------------------------------------------------|
 | Whitelist                             | allowlist                                         |
 | Blacklist	                            | blocklist, denylist                               |
@@ -19,27 +19,19 @@ Here are some of the most common problematic terms and some suggested alternativ
 | Dummy value                           | Placeholder value, sample value                   |
 
 This list is obviously not comprehensive.  In general, authors and reviewers
-should try to make sure they use language that is inclusive along a few
-dimensions:
+should be alert about uses of terminology that implies semantics based on:
 
 * Gender
 * Age
 * Ability
 * Ethnicity
-
-More background can be found in [this Internet-Draft](https://tools.ietf.org/html/draft-knodel-terminology-03).
+* Race
 
 ## References
 
 Sometimes IETF documents need to refer to terminology from older IETF documents
-or non-IETF documents.  Such terminology might not meet the standards for
-inclusiveness that we would apply to IETF documents today.  In such cases, the
-author of the new IETF document should map old terms to new, better terms.  [For
-example](https://tools.ietf.org/html/draft-rescorla-tls-rfc8446-bis-00):
-
-> Note: the key derivation labels use the string "master" even though
-> the values are referred to as "main" secrets.  This mismatch is a
-> result of renaming the values while retaining compatibility.
+or non-IETF documents. In such cases, the
+author of the new IETF document should explain the mapping of previously used terms to new terms. 
 
 ## Background: Elsewhere on the Internet
 
