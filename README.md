@@ -6,18 +6,20 @@ Here are some of the most common terms that have been identified by other organi
 
 | Term                                  | Alternative                                       | References                            |
 |:--------------------------------------|:--------------------------------------------------|----------------------------------------
-| Whitelist                             | allowlist                                         |
-| Blacklist	                            | blocklist, denylist                               |
-| Master/slave                          | leader/follower, primary/replica, active/standby  |
-| Master branch                         | main branch                                       |[Ansible](https://www.redhat.com/en/blog/making-open-source-more-inclusive-eradicating-problematic-language)|            
-| Grandfathered	                        | legacy status                                     |
-| Gendered terms (e.g., guys)           | Folks, people, you all, y'all                     |
-| Gendered pronouns (e.g., he/him/his)  | They, them, their                                 |
-| Man in the middle                     | On-path attacker, impersionation attack           |
-| Man hours	                            | Person hours, engineer hours, staff hours         |
-| Sanity check                          | Quick check, confidence check                     |
+| Whitelist                             | Allowlist                                         |[Ansible](https://www.redhat.com/en/blog/making-open-source-more-inclusive-eradicating-problematic-language), [Twitter](https://twitter.com/TwitterEng/status/1278733305190342656)| 
+| Blacklist	                            | Blocklist, denylist                               |[Ansible](https://www.redhat.com/en/blog/making-open-source-more-inclusive-eradicating-problematic-language), [Twitter](https://twitter.com/TwitterEng/status/1278733305190342656)| 
+| Master/slave                          | Leader/follower, primary/replica, active/standby  |[Twitter](https://twitter.com/TwitterEng/status/1278733305190342656)|
+| Master branch                         | Main branch                                       |[Ansible](https://www.redhat.com/en/blog/making-open-source-more-inclusive-eradicating-problematic-language)|            
+| Grandfathered	                        | Legacy status                                     |[Twitter](https://twitter.com/TwitterEng/status/1278733305190342656)|
+| Gendered terms (e.g., guys)           | People                                            |[Twitter](https://twitter.com/TwitterEng/status/1278733305190342656)|
+| Gendered pronouns (e.g., he/him/his)  | They, them, their                                 |[Twitter](https://twitter.com/TwitterEng/status/1278733305190342656)|
+| Man in the middle                     | On-path attacker, impersonation attack            |
+| Man hours	                            | Person hours, engineer hours, staff hours         |[Twitter](https://twitter.com/TwitterEng/status/1278733305190342656)|
+| Sanity check                          | Quick check, confidence check                     |[Twitter](https://twitter.com/TwitterEng/status/1278733305190342656)|
 | Crazy                                 | Unexpected, surprising, puzzling                  |
-| Dummy value                           | Placeholder value, sample value                   |
+| Dummy value                           | Placeholder value, sample value                   |[Twitter](https://twitter.com/TwitterEng/status/1278733305190342656)|
+| Third world nation                    | Developing nation                                 |
+| Balkanization                         | Bifurcation, segmentation                         |
 
 This list is obviously not comprehensive.  In general, authors and reviewers
 should be alert about uses of terminology that implies semantics based on:
@@ -27,6 +29,7 @@ should be alert about uses of terminology that implies semantics based on:
 * Ability
 * Ethnicity
 * Race
+* Socio-economic status
 
 ## References
 
