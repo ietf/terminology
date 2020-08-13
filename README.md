@@ -59,6 +59,6 @@ Other organizations working on changes to technical terminology:
 * [Redis](https://github.com/redis/redis/issues/5335)
 * [Django](https://github.com/django/django/pull/2692)
 * [Drupal](https://www.drupal.org/node/2275877)
-* [Bluetooth](https://docbox.etsi.org/ERM/ERMTG11/05-CONTRIBUTIONS/2020//ERMTG11(20)000051r1_Updates_to_Clause_8_2_on_Bluetooth.zip) (login required)
+* [Bluetooth SIG](https://docbox.etsi.org/ERM/ERMTG11/05-CONTRIBUTIONS/2020//ERMTG11(20)000051r1_Updates_to_Clause_8_2_on_Bluetooth.zip) (login required)
 * [Cisco](https://twitter.com/ChuckRobbins/status/1272977624185204741?s=20)
 
