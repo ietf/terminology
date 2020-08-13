@@ -27,6 +27,7 @@ of IETF documents should be alert about metaphors and other terms with explicit 
 * Ability
 * Ethnicity
 * Race
+* Nationality
 * Socio-economic status
 
 Authors and reviewers should aim to ensure that metaphors and other terminology in IETF documents is as technically accurate and clear as possible.
@@ -60,7 +61,7 @@ Other organizations working on changes to technical terminology:
 * [Redis](https://github.com/redis/redis/issues/5335)
 * [Django](https://github.com/django/django/pull/2692)
 * [Drupal](https://www.drupal.org/node/2275877)
-* [Avnu Alliance](https://avnu.org/wp-content/uploads/2014/05/Avnu_Open-Letter_Inclusive-Terminology-and-Language_July-14-2020_Final.pdf)*
+* [Avnu Alliance](https://avnu.org/wp-content/uploads/2014/05/Avnu_Open-Letter_Inclusive-Terminology-and-Language_July-14-2020_Final.pdf)
 * [Bluetooth SIG](https://docbox.etsi.org/ERM/ERMTG11/05-CONTRIBUTIONS/2020//ERMTG11(20)000051r1_Updates_to_Clause_8_2_on_Bluetooth.zip) (login required)
 * [Cisco](https://twitter.com/ChuckRobbins/status/1272977624185204741?s=20)
 
