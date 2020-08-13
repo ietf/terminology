@@ -1,5 +1,7 @@
 # Terminology in IETF Documents
 
+## Alternative terminology
+
 Numerous technical organizations have identified terminology they find problematic in their code and documentation and have taken the initiative to start using alternative terms.  Here are some of the most common terms that have been identified by other organizations as problematic and some of the alternatives they have suggested:
 
 | Term                                  | Alternative                                       | References                            |
@@ -11,16 +13,26 @@ Numerous technical organizations have identified terminology they find problemat
 | Grandfathered	                        | Legacy status                                     |[W3C](https://w3c.github.io/manual-of-style/#inclusive), [Twitter](https://twitter.com/TwitterEng/status/1278733305190342656)|
 | Gendered terms (e.g., guys)           | People                                            |[Twitter](https://twitter.com/TwitterEng/status/1278733305190342656), [Microsoft](https://docs.microsoft.com/en-us/style-guide/bias-free-communication), [Chromium](https://chromium.googlesource.com/chromium/src/+/master/styleguide/inclusive_code.md)|
 | Gendered pronouns (e.g., he/him/his)  | They, them, their                                 |[W3C](https://w3c.github.io/manual-of-style/#inclusive), [Twitter](https://twitter.com/TwitterEng/status/1278733305190342656), [Google](https://developers.google.com/style/inclusive-documentation), [Microsoft](https://docs.microsoft.com/en-us/style-guide/bias-free-communication), [Chromium](https://chromium.googlesource.com/chromium/src/+/master/styleguide/inclusive_code.md)|
-| Man in the middle                     | On-path attacker, impersonation attack            |
 | Man hours	                            | Person hours, engineer hours, staff hours         |[Twitter](https://twitter.com/TwitterEng/status/1278733305190342656), [Google](https://developers.google.com/style/inclusive-documentation)|
 | Sanity check                          | Quick check, confidence check, coherence check    |[W3C](https://w3c.github.io/manual-of-style/#inclusive), [Twitter](https://twitter.com/TwitterEng/status/1278733305190342656), [Google](https://developers.google.com/style/inclusive-documentation)|
 | Crazy                                 | Unexpected, surprising, puzzling                  |[Google](https://developers.google.com/style/inclusive-documentation)|
 | Dummy value                           | Placeholder value, sample value                   |[W3C](https://w3c.github.io/manual-of-style/#inclusive), [Twitter](https://twitter.com/TwitterEng/status/1278733305190342656), [Google](https://developers.google.com/style/inclusive-documentation)|
+
+
+There are some other terms that have had alternatives suggested within the IETF context:
+
+| Term                                  | Alternative                                       |
+|:--------------------------------------|:--------------------------------------------------|
+| Man in the middle                     | On-path attacker, impersonation attack            |
 | Third world nation                    | Developing nation                                 |
 | Balkanization                         | Bifurcation, segmentation                         |
 
-This list is obviously not comprehensive.  In general, authors and reviewers
-of IETF documents should be alert about metaphors and other terms with explicit or implicit semantics that are based on:
+
+These lists are illustrative, not comprehensive.  
+
+## Suggestions for IETF document authors and reviewers
+
+In general, authors and reviewers of IETF documents should be alert about metaphors and other terms with explicit or implicit semantics that are based on:
 
 * Gender
 * Age
