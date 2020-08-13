@@ -1,4 +1,4 @@
-# Terminology in IETF Documents
+# Inclusive terminology in IETF Documents
 
 ## Alternative terminology
 
@@ -23,7 +23,7 @@ There are some other terms that have had alternatives suggested within the IETF 
 
 | Term                                  | Alternative                                       |
 |:--------------------------------------|:--------------------------------------------------|
-| Man in the middle                     | On-path attacker, impersonation attack            |
+| Man in the middle                     | On-path attack, impersonation attack            |
 | Third world nation                    | Developing nation                                 |
 | Balkanization                         | Bifurcation, segmentation                         |
 
