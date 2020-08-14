@@ -42,7 +42,7 @@ In general, authors and reviewers of IETF documents should be alert about metaph
 * Nationality
 * Socio-economic status
 
-Authors and reviewers should aim to ensure that metaphors and other terminology in IETF documents is as technically accurate and clear as possible.
+Authors and reviewers should aim to ensure that metaphors and other terminology in IETF documents are as technically accurate and clear as possible.
 
 ## Referring to terminology previously used
 
