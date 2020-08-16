@@ -26,6 +26,7 @@ There are some other terms that have had alternatives suggested within the IETF 
 | Man in the middle                     | On-path attack, impersonation attack            |
 | Third world nation                    | Developing nation                                 |
 | Balkanization                         | Bifurcation, segmentation                         |
+| Military or violence metaphors  (e.g., kill, terminate)   | End, halt, stop, close, cease      |
 
 
 These lists are illustrative, not comprehensive.  
