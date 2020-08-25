@@ -27,6 +27,21 @@ There are some other terms that have had alternatives suggested within the IETF 
 | Third world nation                    | Developing nation                                 |
 | Balkanization                         | Bifurcation, segmentation                         |
 
+There are some other terms which can be understood as ablelist, sexist, or as innuendo and are therefore better to be replaced:
+
+| Term                                  | Alternative                                       |
+|:--------------------------------------|:--------------------------------------------------|
+| Stupid                                | Uninformed, reckless, impulsive, risk-taking           |
+| Deluded / delusional                  | Out of touch, unrealistic expectations, pie-in-the-sky fantasies  |
+| Depressed / depressing                | Sad, upsetting, disappointing, devastating, frustrating, tragic  |
+| Manic                                 | Burst of energy, high-strung, meticulous, high-energy, intense  |
+| Pen testing                           | Searching or scanning for vulnerabilities  |
+| Male/Female Connectors                | +/- or positive/negative connectors  |
+| Evil maid attack                      | Attack based on a physical attack vector  |
+
+
+
+
 
 These lists are illustrative, not comprehensive.  
 
