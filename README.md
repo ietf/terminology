@@ -1,5 +1,7 @@
 # Inclusive terminology in IETF Documents
 
+**NOTE:** This is a working document of the [Internet Engineering Task Force](https://www.ietf.org) (IETF). This draft document may be updated, replaced, or obsoleted by other documents at any time. It is inappropriate to use this document as reference material or to cite it other than as "work in progress."
+
 ## Alternative terminology
 
 Numerous technical organizations have identified terminology they find problematic in their code, standards and documentation and have taken the initiative to start using alternative terms.  Here are some of the most common terms that have been identified by other organizations as problematic and some of the alternatives they have suggested:
