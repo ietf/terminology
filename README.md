@@ -36,7 +36,7 @@ There are some other terms which can be understood as ablelist, sexist, or as in
 | Depressed / depressing                | Sad, upsetting, disappointing, devastating, frustrating, tragic  |
 | Manic                                 | Burst of energy, high-strung, meticulous, high-energy, intense  |
 | Pen testing                           | Searching or scanning for vulnerabilities  |
-| Male/Female Connectors                | +/- or positive/negative connectors  |
+| Male and female Connectors                | 'plug, pin, and prong' and 'receptacle, socket, and slot'  |
 | Evil maid attack                      | Attack based on a physical attack vector  |
 
 
