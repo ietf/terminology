@@ -54,6 +54,7 @@ or non-IETF documents. In such cases, authors of the new IETF document should ex
 Organizations that have published guidelines:
 
 * [W3C](https://w3c.github.io/manual-of-style/#inclusive)
+*[IEEE-SA](https://app.box.com/s/x9royxsmkaho2vpowjrqis1kmwhrpbg7) (proposal under discussion)
 * [Twitter](https://twitter.com/TwitterEng/status/1278733305190342656)
 * [Google](https://developers.google.com/style/inclusive-documentation)
 * [Microsoft](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
@@ -77,5 +78,5 @@ Other organizations working on changes to technical terminology:
 * [Mozilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1644807)
 * [Avnu Alliance](https://avnu.org/wp-content/uploads/2014/05/Avnu_Open-Letter_Inclusive-Terminology-and-Language_July-14-2020_Final.pdf)
 * [Bluetooth SIG](https://docbox.etsi.org/ERM/ERMTG11/05-CONTRIBUTIONS/2020//ERMTG11(20)000051r1_Updates_to_Clause_8_2_on_Bluetooth.zip) (login required)
-* [Cisco](https://blog.talosintelligence.com/2020/06/talos-replacing-blacklist-blocklist-allowlist.html)
+* [Cisco](https://www-author3.cisco.com/c/en/us/td/docs/general/style/guide/Latest/stylegd/language.html#30693) and [Talos](https://blog.talosintelligence.com/2020/06/talos-replacing-blacklist-blocklist-allowlist.html)
 
