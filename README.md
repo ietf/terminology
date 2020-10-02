@@ -66,6 +66,7 @@ Other organizations working on changes to technical terminology:
 * [Splunk](https://www.splunk.com/en_us/blog/leadership/biased-language-has-no-place-in-tech.html)
 * [Github](https://github.blog/2020-07-27-highlights-from-git-2-28/)
 * [GitLab](https://gitlab.com/gitlab-org/gitlab/-/issues/221164)
+* [IEEE Standards Association](https://app.box.com/s/mxh8nhlqjp0hcq2cfppnv13bjr0xphyt)
 * [UK National Cyber Security Centre](https://www.ncsc.gov.uk/blog-post/terminology-its-not-black-and-white)
 * [NIST](https://www.politico.com/news/2020/06/25/agency-ends-use-technology-terms-racist-associations-339880)
 * [Linux kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=49decddd39e5f6132ccd7d9fdc3d7c470b0061bb)
