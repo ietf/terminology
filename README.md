@@ -17,6 +17,7 @@ Numerous technical organizations have identified terminology they find problemat
 | Sanity check                          | Quick check, confidence check, coherence check    |[W3C](https://w3c.github.io/manual-of-style/#inclusive), [Twitter](https://twitter.com/TwitterEng/status/1278733305190342656), [Google](https://developers.google.com/style/inclusive-documentation)|
 | Crazy                                 | Unexpected, surprising, puzzling                  |[Google](https://developers.google.com/style/inclusive-documentation)|
 | Dummy value                           | Placeholder value, sample value                   |[W3C](https://w3c.github.io/manual-of-style/#inclusive), [Twitter](https://twitter.com/TwitterEng/status/1278733305190342656), [Google](https://developers.google.com/style/inclusive-documentation)|
+| Dark Pattern                          | Deception Pattern                                 |[HTC](https://community.humanetech.com/t/5012), [Fediverse](https://mastodon.social/web/statuses/104980550422206716), [Twitter](https://twitter.com/humane_tech_now/status/1312997688770732032)|
 
 
 There are some other terms that have had alternatives suggested within the IETF context:
