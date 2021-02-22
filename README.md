@@ -1,5 +1,7 @@
 # Inclusive terminology in IETF Documents
 
+**NOTE:** This is a work-in-progress. This material may be updated, replaced, or obsoleted at any time. It is inappropriate to cite this material other than as "work in progress."
+
 ## Alternative terminology
 
 Numerous technical organizations have identified terminology they find problematic in their code, standards and documentation and have taken the initiative to start using alternative terms.  Here are some of the most common terms that have been identified by other organizations as problematic and some of the alternatives they have suggested:
