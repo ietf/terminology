@@ -64,6 +64,7 @@ Organizations that have published guidelines:
 * [Microsoft](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
 * [Chromium](https://chromium.googlesource.com/chromium/src/+/master/styleguide/inclusive_code.md)
 * [Apple](https://developer.apple.com/news/?id=1o9zxsxl)
+* [NIST](https://www.nist.gov/nist-research-library/nist-technical-series-publications-author-instructions#inclusive)
 
 Other organizations working on changes to technical terminology:
 
