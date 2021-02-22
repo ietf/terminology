@@ -65,7 +65,7 @@ Organizations that have published guidelines:
 
 Other organizations working on changes to technical terminology:
 
-* [CNCF](https://inclusivenaming.org/)
+* [Inclusive Naming](https://inclusivenaming.org/)
 * [3GPP](https://datatracker.ietf.org/liaison/1716/)
 * [IEEE 1588](https://development.standards.ieee.org/myproject-web/public/view.html#pardetail/8858)
 * [RedHat](https://www.redhat.com/en/blog/making-open-source-more-inclusive-eradicating-problematic-language)
