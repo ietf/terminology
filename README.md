@@ -32,7 +32,7 @@ There are some other terms which can be understood as ablelist, sexist, or as in
 | Term                                  | Alternative                                       |
 |:--------------------------------------|:--------------------------------------------------|
 | Stupid                                | Uninformed, reckless, impulsive, risk-taking           |
-| Deluded / delusional                  | Out of touch, unrealistic expectations, pie-in-the-sky fantasies  |
+| Deluded / delusional                  | Out of touch, unrealistic expectations 
 | Depressed / depressing                | Sad, upsetting, disappointing, devastating, frustrating, tragic  |
 | Manic                                 | Burst of energy, high-strung, meticulous, high-energy, intense  |
 | Pen testing                           | Searching or scanning for vulnerabilities  |
