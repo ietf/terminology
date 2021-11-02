@@ -1,6 +1,17 @@
 # Inclusive terminology in IETF Documents
 
-**NOTE:** This is a work-in-progress. This material may be updated, replaced, or obsoleted at any time. It is inappropriate to cite this material other than as "work in progress."
+**NOTE:**
+
+1. This is a work-in-progress. This material may be updated, replaced, or
+   obsoleted at any time. It is inappropriate to cite this material other than
+   as "work in progress."
+
+2. Please also see the [IESG Statement on Inclusive
+   Language](https://www.ietf.org/about/groups/iesg/statements/on-inclusive-language/),
+   which documents the current IETF community consensus on encouraging to use
+   the guidance in [NISTIR
+   8366](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8366.pdf) when making
+   contributions to the IETF.
 
 ## Alternative terminology
 
