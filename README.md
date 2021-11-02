@@ -53,6 +53,42 @@ Authors and reviewers should aim to ensure that metaphors and other terminology 
 Sometimes IETF documents need to refer to terminology from older IETF documents
 or non-IETF documents. In such cases, authors of the new IETF document should explain the mapping of previously used terms to new terms. 
 
+## Automated checking on GitHub
+
+This repo contains a [configuration file](.github/in-solidarity.yml) for
+[in-solidarity-bot](https://github.com/apps/in-solidarity) that flags some of
+the terms in [the NIST Technical Series Publications Author
+Instructions](https://www.nist.gov/nist-research-library/nist-technical-series-publications-author-instructions#inclusive)
+and [the IETF's list of problematic
+terminology](https://github.com/ietf/terminology) above in new commits and pull
+requests.
+
+If you want to use this configuration, you will of course need to install and
+enable the [in-solidarity-bot](https://github.com/apps/in-solidarity) for your
+repo or organization, so do that first by [clicking "Configure" on this
+page](https://github.com/apps/in-solidarity) and then enabling the bot
+accordingly.
+
+After enabling [in-solidarity-bot](https://github.com/apps/in-solidarity),
+execute these shell commands at the top-level directory of the target repo:
+
+``` shell
+mkdir .github
+echo "_extends: ietf/terminology" > .github/in-solidarity.yml
+git add .github/in-solidarity.yml
+git commit -m "Add in-solidarity-bot config"
+```
+
+This will create and commit a `.github/in-solidarity.yml` file that uses the
+configuration provided in this repo to check future commits and pull requests in
+your repo.
+
+## Referring to terminology previously used
+
+Sometimes IETF documents need to refer to terminology from older IETF documents
+or non-IETF documents. In such cases, authors of the new IETF document should
+explain the mapping of previously used terms to new terms.
+
 ## References
 
 Organizations that have published guidelines:
