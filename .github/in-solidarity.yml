@@ -214,7 +214,7 @@ rules:
 
   dumb:
     regex:
-      - /\bdumb?\w*\b/gi
+      - /\bdumb\w*\b/gi
     level: warning
     alternatives:
       - dull
