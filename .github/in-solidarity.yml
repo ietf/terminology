@@ -262,4 +262,21 @@ rules:
       - plug
       - socket
 
+  invalid:
+    regex:
+      - /\binvalid\w*\b/gi
+    level: warning
+    alternatives:
+      - not valid
+      - unenforceable
+      - not binding
+      - inoperative
+      - illegitimate
+      - incorrect
+      - improper
+      - unacceptable
+      - inapplicable
+      - revoked
+      - rescinded
+
 ignoreDefaults: true
