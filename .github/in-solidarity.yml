@@ -295,6 +295,7 @@ blind:
       - unthinking
       - hasty
       - blocked
+      - opaque
 
 deaf:
     regex:
