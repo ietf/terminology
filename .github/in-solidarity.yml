@@ -280,50 +280,50 @@ rules:
       - rescinded
 
 blind:
-    regex:
-      - /\bblind\w*\b/gi
-    level: warning
-    alternatives:
-      - visually impaired
-      - unmindful of
-      - unconcerned about
-      - negligent of
-      - unaware
-      - uncomprehending
-      - unaware
-      - uncritical
-      - unthinking
-      - hasty
-      - blocked
-      - opaque
+  regex:
+    - /\bblind\w*\b/gi
+  level: warning
+  alternatives:
+    - visually impaired
+    - unmindful of
+    - unconcerned about
+    - negligent of
+    - unaware
+    - uncomprehending
+    - unaware
+    - uncritical
+    - unthinking
+    - hasty
+    - blocked
+    - opaque
 
 deaf:
-    regex:
-      - /\bdeaf\w*\b/gi
-    level: warning
-    alternatives:
-      - hard of hearing
-      - unmoved by
-      - unaffected by
-      - unconcerned with
-      - oblivious to
-      - indifferent to
+  regex:
+    - /\bdeaf\w*\b/gi
+  level: warning
+  alternatives:
+    - hard of hearing
+    - unmoved by
+    - unaffected by
+    - unconcerned with
+    - oblivious to
+    - indifferent to
 
 right:
-    regex:
-      - /\bright\w*\b/gi
-    level: warning
-    alternatives:
-      - just
-      - fair
-      - good
-      - correct
-      - accurate
-      - precise
-      - official
-      - suitable
-      - ideal
-      - opportune
-      - fitting
+  regex:
+    - /\bright\w*\b/gi
+  level: warning
+  alternatives:
+    - just
+    - fair
+    - good
+    - correct
+    - accurate
+    - precise
+    - official
+    - suitable
+    - ideal
+    - opportune
+    - fitting
 
 ignoreDefaults: true
