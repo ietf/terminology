@@ -327,15 +327,16 @@ rules:
   #     - opportune
   #     - fitting
 
-  blackhole:
-    regex:
-      - /\bblack[\w_-]hol\w*\b/gi
-    level: warning
-    alternatives:
-      - drop
-      - reject
-      - ignore
-      - disregard
-      - bypass
+  # See https://github.com/ietf/terminology/issues/31
+  # blackhole:
+  #   regex:
+  #     - /\bblack[\w_-]hol\w*\b/gi
+  #   level: warning
+  #   alternatives:
+  #     - drop
+  #     - reject
+  #     - ignore
+  #     - disregard
+  #     - bypass
 
 ignoreDefaults: true
