@@ -1,0 +1,20 @@
+name: "Lint YAML"
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  yamllint:
+    name: "Yamllint"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Run yamllint
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          file_or_dir: .github/*.yml
+          config_data: "{extends: default, rules: {document-start: disable, truthy: disable}}"
