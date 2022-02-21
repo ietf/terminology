@@ -279,6 +279,24 @@ rules:
       - revoked
       - rescinded
 
+  blind:
+    regex:
+      - /\bblind\w*\b/gi
+    level: warning
+    alternatives:
+      - visually impaired
+      - unmindful of
+      - unconcerned about
+      - negligent of
+      - unaware
+      - uncomprehending
+      - unaware
+      - uncritical
+      - unthinking
+      - hasty
+      - blocked
+      - opaque
+
   deaf:
     regex:
       - /\bdeaf\w*\b/gi
