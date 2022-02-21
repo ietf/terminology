@@ -16,5 +16,5 @@ jobs:
       - name: Run yamllint
         uses: ibiqlik/action-yamllint@v3
         with:
-          file_or_dir: .github/*.yaml
+          file_or_dir: .github/*.yml
           config_data: "{extends: default, rules: {document-start: disable, truthy: disable}}"
