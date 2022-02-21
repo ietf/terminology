@@ -309,22 +309,23 @@ rules:
       - oblivious to
       - indifferent to
 
-  right:
-    regex:
-      - /\bright\w*\b/gi
-    level: warning
-    alternatives:
-      - just
-      - fair
-      - good
-      - correct
-      - accurate
-      - precise
-      - official
-      - suitable
-      - ideal
-      - opportune
-      - fitting
+  # This occurs in the IETF boilerplate text...
+  # right:
+  #   regex:
+  #     - /\bright\w*\b/gi
+  #   level: warning
+  #   alternatives:
+  #     - just
+  #     - fair
+  #     - good
+  #     - correct
+  #     - accurate
+  #     - precise
+  #     - official
+  #     - suitable
+  #     - ideal
+  #     - opportune
+  #     - fitting
 
   blackhole:
     regex:
