@@ -326,4 +326,14 @@ rules:
       - opportune
       - fitting
 
+blackhole:
+    regex:
+      - /\black[\w_-]hol\w*\b/gi
+    level: warning
+    alternatives:
+      - drop
+      - reject
+      - ignore
+      - disregard
+      - bypass
 ignoreDefaults: true
